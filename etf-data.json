@@ -1,6 +1,6 @@
 {
-  "total_assets": 281658.29,
-  "cash": 281658.29,
+  "total_assets": 300000.00,
+  "cash": 300000.00,
   "today_pnl": 0,
   "macro_score": 43,
   "macro_status": "防守",
@@ -9,7 +9,7 @@
       "code": "515880",
       "name": "通信ETF",
       "shares": 0,
-      "cash": 88421.23,
+      "cash": 100000.00,
       "score": 70.0,
       "signal": "观望"
     },
@@ -17,7 +17,7 @@
       "code": "512480",
       "name": "半导体ETF",
       "shares": 0,
-      "cash": 99046.69,
+      "cash": 100000.00,
       "score": 74.7,
       "signal": "观望"
     },
@@ -25,7 +25,7 @@
       "code": "588200",
       "name": "科创芯片ETF",
       "shares": 0,
-      "cash": 94190.36,
+      "cash": 100000.00,
       "score": 75.4,
       "signal": "观望"
     }
@@ -47,8 +47,8 @@
   "monitor": {
     "pid": "1665",
     "status": "运行中",
-    "last_update": "2026-11-04 15:45:25"
+    "last_update": "2026-11-04 16:00:00"
   },
   "version": "v3.2",
-  "updated_at": "2026-11-04 15:45:25"
+  "updated_at": "2026-11-04 16:00:00"
 }
