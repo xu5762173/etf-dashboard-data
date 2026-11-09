@@ -43,9 +43,9 @@
     "trades": 406
   },
   "monitor": {
-    "pid": "622",
+    "pid": "669",
     "status": "运行中"
   },
   "version": "v3.5-tp-differential",
-  "updated_at": "2026-11-09 11:05:28"
+  "updated_at": "2026-11-09 13:04:04"
 }
