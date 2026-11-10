@@ -43,9 +43,9 @@
     "trades": 406
   },
   "monitor": {
-    "pid": "620",
+    "pid": "588",
     "status": "运行中"
   },
   "version": "v3.5-reset-300k",
-  "updated_at": "2026-11-10 09:10:00"
+  "updated_at": "2026-11-10 11:05:00"
 }
