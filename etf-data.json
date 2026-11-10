@@ -16,18 +16,18 @@
     {
       "code": "512480",
       "name": "半导体ETF",
-      "shares": 0,
+      "shares": 21091,
       "cash": 83333.33,
       "score": 73.2,
-      "signal": "买入异常(记账bug)"
+      "signal": "持仓中(1档)"
     },
     {
       "code": "588200",
       "name": "科创芯片ETF",
-      "shares": 0,
+      "shares": 19352,
       "cash": 83333.33,
       "score": 71.1,
-      "signal": "买入异常(记账bug)"
+      "signal": "持仓中(1档)"
     }
   ],
   "strategy": {
@@ -46,6 +46,6 @@
     "pid": "641",
     "status": "运行中"
   },
-  "version": "v3.5-reset-300k",
-  "updated_at": "2026-11-10 13:10:00"
+  "version": "v3.5-shares-fix",
+  "updated_at": "2026-11-10 13:20:00"
 }
