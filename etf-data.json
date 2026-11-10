@@ -1,8 +1,8 @@
 {
-  "total_assets": 266666.67,
-  "cash": 266666.67,
-  "today_pnl": 0,
-  "macro_score": 55,
+  "total_assets": 339997.54,
+  "cash": 297099.82,
+  "today_pnl": 3997.54,
+  "macro_score": 59,
   "macro_status": "balance",
   "positions": [
     {
@@ -16,18 +16,18 @@
     {
       "code": "512480",
       "name": "半导体ETF",
-      "shares": 21091,
-      "cash": 83333.33,
-      "score": 73.2,
-      "signal": "持仓中(1档)"
+      "shares": 27354,
+      "cash": 98525.23,
+      "score": 71.0,
+      "signal": "持仓2档"
     },
     {
       "code": "588200",
       "name": "科创芯片ETF",
-      "shares": 19352,
-      "cash": 83333.33,
-      "score": 71.1,
-      "signal": "持仓中(1档)"
+      "shares": 25116,
+      "cash": 98574.59,
+      "score": 70.0,
+      "signal": "持仓2档"
     }
   ],
   "strategy": {
@@ -46,6 +46,6 @@
     "pid": "641",
     "status": "运行中"
   },
-  "version": "v3.5-shares-fix",
-  "updated_at": "2026-11-10 13:20:00"
+  "version": "v3.5-review-fixed",
+  "updated_at": "2026-11-10 15:45:00"
 }
