@@ -2,15 +2,15 @@
   "total_assets": 449113.13,
   "cash": 449113.13,
   "today_pnl": 0,
-  "macro_score": 42,
-  "macro_status": "defense",
+  "macro_score": 55,
+  "macro_status": "balance",
   "positions": [
     {
       "code": "515880",
       "name": "通信ETF",
       "shares": 0,
       "cash": 147963.75,
-      "score": 68.3,
+      "score": 69.0,
       "signal": "空仓"
     },
     {
@@ -18,7 +18,7 @@
       "name": "半导体ETF",
       "shares": 0,
       "cash": 154315.95,
-      "score": 70.4,
+      "score": 73.2,
       "signal": "空仓"
     },
     {
@@ -26,7 +26,7 @@
       "name": "科创芯片ETF",
       "shares": 0,
       "cash": 146833.43,
-      "score": 68.9,
+      "score": 71.1,
       "signal": "空仓"
     }
   ],
@@ -43,9 +43,9 @@
     "trades": 406
   },
   "monitor": {
-    "pid": "610",
-    "status": "运行中"
+    "pid": "620",
+    "status": "运行中(等待开盘)"
   },
   "version": "v3.5-tp-differential",
-  "updated_at": "2026-11-09 15:01:04"
+  "updated_at": "2026-11-10 09:08:00"
 }
