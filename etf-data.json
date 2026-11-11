@@ -16,7 +16,7 @@
     {
       "code": "512480",
       "name": "半导体ETF",
-      "shares": 27355,
+      "shares": 27354,
       "cash": 98525.23,
       "score": 71.0,
       "signal": "持仓2档"
@@ -43,9 +43,9 @@
     "trades": 406
   },
   "monitor": {
-    "pid": "768",
+    "pid": "621",
     "status": "运行中"
   },
   "version": "v3.5-cpi-defense",
-  "updated_at": "2026-11-11 08:36:00"
+  "updated_at": "2026-11-11 09:12:00"
 }
