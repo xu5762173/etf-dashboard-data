@@ -11,7 +11,7 @@
   ],
   "strategy": {"threshold": 70, "take_profit": 0.20, "stop_loss": 0.12, "cooldown": 3},
   "backtest": {"total_return": 116.53, "annual_return": 14.3, "max_drawdown": -11.8, "trades": 406},
-  "monitor": {"pid": "682", "status": "运行中(盘前休眠,09:30开盘)"},
+  "monitor": {"pid": "620", "status": "运行中(盘中轮询)"},
   "version": "v3.5-cpi-defense",
-  "updated_at": "2026-11-12 09:18:27"
+  "updated_at": "2026-11-12 11:08:34"
 }
