@@ -2,16 +2,50 @@
   "total_assets": 299776.98,
   "cash": 299776.98,
   "today_pnl": -223.02,
-  "macro_score": 46,
+  "macro_score": 45,
   "macro_status": "defense",
   "positions": [
-    {"code": "515880", "name": "通信ETF", "shares": 0.0, "cash": 60000.0, "score": 59.6, "signal": "空仓"},
-    {"code": "512480", "name": "半导体ETF", "shares": 0.0, "cash": 119884.01, "score": 65.1, "signal": "空仓"},
-    {"code": "588200", "name": "科创芯片ETF", "shares": 0.0, "cash": 119892.97, "score": 65.9, "signal": "空仓"}
+    {
+      "code": "515880",
+      "name": "通信ETF",
+      "shares": 0.0,
+      "cash": 60000.0,
+      "score": 62.0,
+      "signal": "空仓"
+    },
+    {
+      "code": "512480",
+      "name": "半导体ETF",
+      "shares": 0.0,
+      "cash": 119884.01,
+      "score": 61.8,
+      "signal": "空仓"
+    },
+    {
+      "code": "588200",
+      "name": "科创芯片ETF",
+      "shares": 0.0,
+      "cash": 119892.97,
+      "score": 62.5,
+      "signal": "空仓"
+    }
   ],
-  "strategy": {"threshold": 70, "take_profit": 0.20, "stop_loss": 0.12, "cooldown": 3},
-  "backtest": {"total_return": 116.53, "annual_return": 14.3, "max_drawdown": -11.8, "trades": 406},
-  "monitor": {"pid": "598", "status": "收盘后休眠"},
+  "strategy": {
+    "threshold": 70,
+    "take_profit": 0.2,
+    "stop_loss": 0.12,
+    "cooldown": 3
+  },
+  "backtest": {
+    "total_return": 116.53,
+    "annual_return": 14.3,
+    "max_drawdown": -11.8,
+    "trades": 406
+  },
+  "monitor": {
+    "pid": "601",
+    "status": "运行中"
+  },
   "version": "v3.5-cpi-defense",
-  "updated_at": "2026-11-12 15:02:18"
+  "updated_at": "2026-11-13 09:14:42"
 }
