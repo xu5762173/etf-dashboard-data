@@ -43,9 +43,9 @@
     "trades": 406
   },
   "monitor": {
-    "pid": "688",
+    "pid": "697",
     "status": "运行中"
   },
   "version": "v3.5-cpi-defense",
-  "updated_at": "2026-11-18 13:08:25"
+  "updated_at": "2026-11-18 15:07:16"
 }
