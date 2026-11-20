@@ -1,17 +1,17 @@
 {
-  "total_assets": 299776.98,
-  "cash": 299776.98,
-  "today_pnl": 0,
+  "total_assets": 299801.65,
+  "cash": 289776.98,
+  "today_pnl": 24.67,
   "macro_score": 40,
   "macro_status": "defense",
   "positions": [
     {
       "code": "515880",
       "name": "通信ETF",
-      "shares": 0,
-      "cash": 60000.0,
+      "shares": 27167.12,
+      "cash": 50000.0,
       "score": 68.2,
-      "signal": "空仓"
+      "signal": "持仓中"
     },
     {
       "code": "512480",
@@ -43,9 +43,9 @@
     "trades": 406
   },
   "monitor": {
-    "pid": "674",
+    "pid": "685",
     "status": "运行中"
   },
   "version": "v3.5-cpi-defense",
-  "updated_at": "2026-11-20 09:04:11"
+  "updated_at": "2026-11-20 11:09:30"
 }
