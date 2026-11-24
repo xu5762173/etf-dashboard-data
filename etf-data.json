@@ -1,8 +1,8 @@
 {
   "total_assets": 300127.65,
   "cash": 289776.98,
-  "today_pnl": 353.17,
-  "macro_score": 40,
+  "today_pnl": 350.67,
+  "macro_score": 45,
   "macro_status": "defense",
   "positions": [
     {
@@ -10,7 +10,7 @@
       "name": "通信ETF",
       "shares": 27167.12,
       "cash": 50000.0,
-      "score": 69.1,
+      "score": 64.7,
       "signal": "持仓中"
     },
     {
@@ -18,7 +18,7 @@
       "name": "半导体ETF",
       "shares": 0,
       "cash": 119884.01,
-      "score": 71.6,
+      "score": 71.2,
       "signal": "空仓"
     },
     {
@@ -26,7 +26,7 @@
       "name": "科创芯片ETF",
       "shares": 0,
       "cash": 119892.97,
-      "score": 65.0,
+      "score": 65.6,
       "signal": "空仓"
     }
   ],
@@ -43,9 +43,9 @@
     "trades": 406
   },
   "monitor": {
-    "pid": "717",
+    "pid": "715",
     "status": "运行中"
   },
   "version": "v3.5-cpi-defense",
-  "updated_at": "2026-11-23 15:10:08"
+  "updated_at": "2026-11-24 09:03:40"
 }
