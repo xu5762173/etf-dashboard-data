@@ -1,7 +1,7 @@
 {
-  "total_assets": 299504.18,
-  "cash": 248137.74,
-  "today_pnl": -259.89,
+  "total_assets": 297803.96,
+  "cash": 227318.12,
+  "today_pnl": -1954.90,
   "macro_score": 42,
   "macro_status": "defense",
   "positions": [
@@ -16,8 +16,8 @@
     {
       "code": "512480",
       "name": "半导体ETF",
-      "shares": 26926.8,
-      "cash": 99064.39,
+      "shares": 55557.36,
+      "cash": 78244.77,
       "score": 70.4,
       "signal": "持仓中"
     },
@@ -43,9 +43,9 @@
     "trades": 406
   },
   "monitor": {
-    "pid": "666",
+    "pid": "711",
     "status": "运行中"
   },
   "version": "v3.5-cpi-defense",
-  "updated_at": "2026-11-25 09:12:02"
+  "updated_at": "2026-11-25 11:02:56"
 }
