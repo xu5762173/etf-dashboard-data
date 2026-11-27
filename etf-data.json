@@ -10,7 +10,7 @@
       "name": "通信ETF",
       "shares": 27167.12,
       "cash": 50000.0,
-      "score": 66.8,
+      "score": 67.8,
       "signal": "持仓中"
     },
     {
@@ -18,7 +18,7 @@
       "name": "半导体ETF",
       "shares": 55557.36,
       "cash": 78244.77,
-      "score": 71.0,
+      "score": 72.8,
       "signal": "持仓中"
     },
     {
@@ -26,7 +26,7 @@
       "name": "科创芯片ETF",
       "shares": 24430.07,
       "cash": 99073.35,
-      "score": 65.0,
+      "score": 68.4,
       "signal": "持仓中"
     }
   ],
@@ -43,9 +43,9 @@
     "trades": 406
   },
   "monitor": {
-    "pid": "690",
+    "pid": "626",
     "status": "运行中"
   },
   "version": "v3.5-cpi-defense",
-  "updated_at": "2026-11-26 15:04:34"
+  "updated_at": "2026-11-27 09:11:15"
 }
