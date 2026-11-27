@@ -1,7 +1,7 @@
 {
-  "total_assets": 298477.08,
-  "cash": 227318.12,
-  "today_pnl": -1281.79,
+  "total_assets": 303562.36,
+  "cash": 206498.5,
+  "today_pnl": 3808.7,
   "macro_score": 40,
   "macro_status": "defense",
   "positions": [
@@ -24,8 +24,8 @@
     {
       "code": "588200",
       "name": "科创芯片ETF",
-      "shares": 24430.07,
-      "cash": 99073.35,
+      "shares": 50158.64,
+      "cash": 78253.73,
       "score": 68.4,
       "signal": "持仓中"
     }
@@ -43,9 +43,9 @@
     "trades": 406
   },
   "monitor": {
-    "pid": "666",
+    "pid": "704",
     "status": "运行中"
   },
   "version": "v3.5-cpi-defense",
-  "updated_at": "2026-11-27 11:07:39"
+  "updated_at": "2026-11-27 13:05:38"
 }
