@@ -1,7 +1,7 @@
 {
-  "total_assets": 303562.36,
+  "total_assets": 306939.69,
   "cash": 206498.5,
-  "today_pnl": 3808.7,
+  "today_pnl": 7186.03,
   "macro_score": 40,
   "macro_status": "defense",
   "positions": [
@@ -43,9 +43,9 @@
     "trades": 406
   },
   "monitor": {
-    "pid": "704",
+    "pid": "699",
     "status": "运行中"
   },
   "version": "v3.5-cpi-defense",
-  "updated_at": "2026-11-27 13:05:38"
+  "updated_at": "2026-11-27 15:06:10"
 }
